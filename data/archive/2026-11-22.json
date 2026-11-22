@@ -1,8 +1,38 @@
 {
   "date": "2026-11-22",
-  "updated_at": "2026-11-22T20:55:54.163304+01:00",
-  "count": 9,
+  "updated_at": "2026-11-23T00:39:27.824747+01:00",
+  "count": 11,
   "articles": [
+    {
+      "id": "7d27fffa3906bd9a",
+      "title": "Non abbiamo visto l’ultima delle principali interruzioni tecnologiche",
+      "title_en": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "Nell’ultima settimana circa, abbiamo assistito a un arresto a livello nazionale della FAA, un’interruzione di Outlook di più giorni che ha bloccato intere aziende e un’interruzione bancaria presso JPMorgan Chase. Ma il consenso è che ce ne saranno altri in arrivo....",
+      "summary_en": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come....",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-22T23:48:02+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "90468db0d5a9c8d3",
+      "title": "Il capo scienziato di OpenAI riflette su come limitare lo sviluppo dell’intelligenza artificiale",
+      "title_en": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "Per stabilire un limite di velocità per lo sviluppo dell’intelligenza artificiale, è necessario concordare come misurare la velocità.",
+      "summary_en": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "image": "",
+      "source": "TechCrunch AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-22T22:14:07+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
     {
       "id": "b51af88d58d8138d",
       "title": "Perché i data center sono al centro della reazione negativa delle Big Tech",

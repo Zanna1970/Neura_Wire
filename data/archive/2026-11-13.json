@@ -1,6 +1,6 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-22T20:55:54.163304+01:00",
+  "updated_at": "2026-11-23T00:39:27.824747+01:00",
   "count": 41,
   "articles": [
     {
@@ -119,7 +119,7 @@
     },
     {
       "id": "96c7f67bef86f831",
-      "title": "XYBench: Aiutare con il problema dietro la domanda",
+      "title": "XYBench: aiutare con il problema dietro la domanda",
       "title_en": "XYBench: Helping with the problem behind the question",
       "url": "https://huggingface.co/blog/allenai/xybench",
       "summary": "",
