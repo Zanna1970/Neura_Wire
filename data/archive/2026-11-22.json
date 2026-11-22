@@ -1,8 +1,53 @@
 {
   "date": "2026-11-22",
-  "updated_at": "2026-11-22T15:43:03.053714+01:00",
-  "count": 5,
+  "updated_at": "2026-11-22T20:55:54.163304+01:00",
+  "count": 9,
   "articles": [
+    {
+      "id": "b51af88d58d8138d",
+      "title": "Perché i data center sono al centro della reazione negativa delle Big Tech",
+      "title_en": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Il giornalista Paris Marx apre il suo nuovo libro \"Hyperscale\".",
+      "summary_en": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "image": "",
+      "source": "TechCrunch AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-22T19:08:43+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "28c764e2cf8a36ef",
+      "title": "Lo sviluppatore Binding of Isaac rimuove la musica AI da Repentance Plus",
+      "title_en": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "The Binding of Isaac: Repentance Plus ha trascorso gli ultimi giorni ricevendo un bombardamento di recensioni su Steam dopo aver scoperto che un particolare segmento del gioco utilizzava musica AI. L'utente Reddit ShweetsStuff ha scoperto le canzoni usate durante un...",
+      "summary_en": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/j7yPmbNCP4I-HD.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-22T18:25:20+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "f0e5b13f90a94262",
+      "title": "Problema tecnico per Perseverance: attività sospese",
+      "title_en": "Problema tecnico per Perseverance: attività sospese",
+      "url": "https://www.punto-informatico.it/problema-tecnico-perseverance-attivita-sospese/",
+      "summary": "La NASA ha rilevato un problema ai sistemi radio UHF di Perseverance, quindi le attività scientifiche sono state temporaneamente interrotte. The post Problema tecnico per Perseverance: attività sospese appeared first on Punto Informatico .",
+      "summary_en": "La NASA ha rilevato un problema ai sistemi radio UHF di Perseverance, quindi le attività scientifiche sono state temporaneamente interrotte. The post Problema tecnico per Perseverance: attività sospese appeared first on Punto Informatico .",
+      "image": "https://www.punto-informatico.it/app/uploads/2026/11/Marte.jpg",
+      "source": "Punto Informatico",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-22T17:13:57+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
     {
       "id": "e8029993afd719ae",
       "title": "La rivoluzione della codifica delle vibrazioni sta arrivando su tutti i gadget",
@@ -75,6 +120,21 @@
       "category": "Italia",
       "lang": "it",
       "published_at": "2026-11-22T08:35:00+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "1a10f1676d46fc01",
+      "title": "Perplessità e intelligenza",
+      "title_en": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "In che modo la perplessità misura il progresso nei modelli di intelligenza artificiale e perché potrebbe aiutare gli sviluppatori a stabilire un approccio condiviso per valutare le capacità emergenti.",
+      "summary_en": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "image": "",
+      "source": "OpenAI News",
+      "category": "Laboratori",
+      "lang": "en",
+      "published_at": "2026-11-22T01:00:00+01:00",
       "date": "2026-11-22",
       "translated": true
     }
