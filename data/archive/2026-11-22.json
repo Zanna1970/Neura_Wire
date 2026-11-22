@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22T15:43:03.053714+01:00",
+  "count": 5,
+  "articles": [
+    {
+      "id": "e8029993afd719ae",
+      "title": "La rivoluzione della codifica delle vibrazioni sta arrivando su tutti i gadget",
+      "title_en": "The vibe-coding revolution is coming to all the gadgets",
+      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "Questa è The Stepback, una newsletter settimanale che analizza una storia essenziale del mondo tecnologico. Per ulteriori informazioni sull'hacking delle vibrazioni di tutto, segui David Pierce. Lo Stepback arriva nelle caselle di posta dei nostri abbonati domenica alle 8:00 ET. Optare...",
+      "summary_en": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AI_vibe_coding_hacker_hardware.jpg?quality=90&strip=all&crop=0,0,100,100",
+      "source": "The Verge AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-22T14:00:00+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "1190b6bbba411cac",
+      "title": "Coinbase blocca una truffa crypto con deepfake di Elon Musk",
+      "title_en": "Coinbase blocca una truffa crypto con deepfake di Elon Musk",
+      "url": "https://www.punto-informatico.it/fintech/criptovalute/coinbase-blocca-truffa-crypto-deepfake-elon-musk/",
+      "summary": "Coinbase ha bloccato il trasferimento di 4,7 milioni di dollari in criptovalute, grazie al suo agente AI che ha rilevato la truffa su YouTube. The post Coinbase blocca una truffa crypto con deepfake di Elon Musk appeared first on Punto...",
+      "summary_en": "Coinbase ha bloccato il trasferimento di 4,7 milioni di dollari in criptovalute, grazie al suo agente AI che ha rilevato la truffa su YouTube. The post Coinbase blocca una truffa crypto con deepfake di Elon Musk appeared first on Punto...",
+      "image": "https://www.punto-informatico.it/app/uploads/2026/11/Elon-Musk-truffa-crypto.jpg",
+      "source": "Punto Informatico",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-22T12:03:29+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "c0977ede80f75e88",
+      "title": "Ho creato un’app con l’AI: addio Google Maps, si va offline | Parte 3",
+      "title_en": "Ho creato un’app con l’AI: addio Google Maps, si va offline | Parte 3",
+      "url": "https://www.hdblog.it/android/speciali/n677787/foldrive-offline-openstreetmap-parte-3/",
+      "summary": "Foldrive passa all’offline, con limiti e autovelox anche senza impostare una destinazione.",
+      "summary_en": "Foldrive passa all’offline, con limiti e autovelox anche senza impostare una destinazione.",
+      "image": "https://hd2.tudocdn.net/1387194?w=660",
+      "source": "HDblog",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-22T10:55:00+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "b2cc8677321d1894",
+      "title": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
+      "title_en": "5 differenze tra Claude e ChatGPT per capire quale conviene usare",
+      "url": "https://www.punto-informatico.it/5-differenze-claude-chatgpt-capire-quale-conviene-usare/",
+      "summary": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene usare appeared...",
+      "summary_en": "Claude e ChatGPT sono i due chatbot più usati al mondo e fanno cose simili, ma non identiche. 5 differenze concrete per capire quale conviene usare. The post 5 differenze tra Claude e ChatGPT per capire quale conviene usare appeared...",
+      "image": "https://www.punto-informatico.it/app/uploads/2026/11/differenze-chatgpt-claude.jpg",
+      "source": "Punto Informatico",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-22T09:30:07+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    },
+    {
+      "id": "d0affed3c3325df3",
+      "title": "Copilot, da gennaio i link aziendali si apriranno dentro l’app",
+      "title_en": "Copilot, da gennaio i link aziendali si apriranno dentro l’app",
+      "url": "https://www.hdblog.it/microsoft/articoli/n677797/microsoft-copilot-edge-browser-integrato-aziende-gennaio-2027/",
+      "summary": "Da gennaio 2027 Edge si aprirà accanto alla chat anche per gli utenti aziendali.",
+      "summary_en": "Da gennaio 2027 Edge si aprirà accanto alla chat anche per gli utenti aziendali.",
+      "image": "https://hd2.tudocdn.net/1364206?w=660",
+      "source": "HDblog",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-22T08:35:00+01:00",
+      "date": "2026-11-22",
+      "translated": true
+    }
+  ]
+}
