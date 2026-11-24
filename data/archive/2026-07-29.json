@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "updated_at": "2026-11-24T18:55:45.977004+01:00",
+  "updated_at": "2026-11-24T23:42:19.180121+01:00",
   "count": 1,
   "articles": [
     {
@@ -8,7 +8,7 @@
       "title": "Da CUDA a MLX: come K-Search porta decenni di esperienza nel kernel in Apple Silicon",
       "title_en": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
       "url": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
-      "summary": "Figura 1: mappa di traduzione dell'ottimizzazione da CUDA a MLX. La conoscenza dell'ottimizzazione CUDA può essere tradotta in strategie MLX native dell'architettura anziché copiare istruzioni per istruzioni. Siamo di fronte a una nuova epoca nell’informatica. L'hardware è...",
+      "summary": "Figura 1: mappa di traduzione dell'ottimizzazione da CUDA a MLX. La conoscenza dell'ottimizzazione CUDA può essere tradotta in strategie MLX native dell'architettura anziché copiare istruzioni per istruzioni. Siamo di fronte a una nuova epoca nell'informatica. L'hardware è...",
       "summary_en": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction. We face a new epoch in computing. Hardware is...",
       "image": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg",
       "source": "BAIR Berkeley",
