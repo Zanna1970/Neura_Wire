@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-24T23:42:19.180121+01:00",
+  "updated_at": "2026-11-25T03:35:16.235751+01:00",
   "count": 90,
   "articles": [
+    {
+      "id": "11304642d4ef0ee9",
+      "title": "Sonnenfeld di Yale: Nvidia è un “danno” alla potenza industriale degli Stati Uniti, non un campione",
+      "title_en": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "summary": "Jeffrey Sonnenfeld di Yale avverte che ciò che il mercato ha applaudito lunedì, il ritorno di Jensen Huang sostenuto dalla Casa Bianca come amministratore delegato e membro del consiglio di amministrazione di Nvidia, potrebbe rivelarsi un errore gigantesco, esponendo i direttori a una responsabilità personale \"storica\" da parte di...",
+      "summary_en": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a...",
+      "image": "",
+      "source": "TechCrunch AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-25T01:12:02+01:00",
+      "date": "2026-11-25",
+      "translated": true
+    },
     {
       "id": "3f66369c8927dc1a",
       "title": "Jensen Huang ritiene ancora che un piano di successione crei una gerarchia non necessaria",
@@ -1008,6 +1023,21 @@
       "translated": true
     },
     {
+      "id": "a3c9028eefd69cfd",
+      "title": "Clay aiuta i team di vendita a vincere con Codex e ChatGPT",
+      "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "Le integrazioni ChatGPT e Codex aiutano gli utenti di Clay a ricercare accordi e a trasformare i dati in giochi go-to-market, con i modelli GPT-6 che gestiscono il ragionamento.",
+      "summary_en": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "image": "",
+      "source": "OpenAI News",
+      "category": "Laboratori",
+      "lang": "en",
+      "published_at": "2026-11-24T01:00:00+01:00",
+      "date": "2026-11-24",
+      "translated": true
+    },
+    {
       "id": "fa9136539de5ecb7",
       "title": "Trump ha progettato un rischioso ritorno per Jensen Huang",
       "title_en": "Trump engineered a risky comeback for Jensen Huang",
@@ -1319,36 +1349,6 @@
       "category": "Media & Tech",
       "lang": "en",
       "published_at": "2026-11-23T18:36:08+01:00",
-      "date": "2026-11-23",
-      "translated": true
-    },
-    {
-      "id": "48a2b6ac3ae60976",
-      "title": "Chief AI Officer, solo uno su cinque ha il controllo sulle decisioni di investimento",
-      "title_en": "Chief AI Officer, solo uno su cinque ha il controllo sulle decisioni di investimento",
-      "url": "https://www.ai4business.it/intelligenza-artificiale/chief-ai-officer-solo-uno-su-cinque-ha-il-controllo-sulle-decisioni-di-investimento/",
-      "summary": "I risultati di uno studio a livello internazionale, su oltre 1.600 manager AI, dell’IBM Institute for Business Value. In Italia, il 72% degli specialisti ritiene che la propria azienda rischi di rimanere indietro rispetto ai concorrenti...",
-      "summary_en": "I risultati di uno studio a livello internazionale, su oltre 1.600 manager AI, dell’IBM Institute for Business Value. In Italia, il 72% degli specialisti ritiene che la propria azienda rischi di rimanere indietro rispetto ai concorrenti...",
-      "image": "",
-      "source": "AI4Business",
-      "category": "Italia",
-      "lang": "it",
-      "published_at": "2026-11-23T18:24:59+01:00",
-      "date": "2026-11-23",
-      "translated": true
-    },
-    {
-      "id": "eb2701ff66febea2",
-      "title": "RoboTrack: tracciamento dei punti per la manipolazione robotica del mondo reale",
-      "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "summary": "",
-      "summary_en": "",
-      "image": "",
-      "source": "Hugging Face",
-      "category": "Laboratori",
-      "lang": "en",
-      "published_at": "2026-11-23T18:20:37+01:00",
       "date": "2026-11-23",
       "translated": true
     }

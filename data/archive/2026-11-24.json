@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24T23:42:19.180121+01:00",
-  "count": 67,
+  "updated_at": "2026-11-25T03:35:16.235751+01:00",
+  "count": 68,
   "articles": [
     {
       "id": "3f66369c8927dc1a",
@@ -1000,6 +1000,21 @@
       "url": "https://openai.com/business/customer-stories/ifood",
       "summary": "",
       "summary_en": "",
+      "image": "",
+      "source": "OpenAI News",
+      "category": "Laboratori",
+      "lang": "en",
+      "published_at": "2026-11-24T01:00:00+01:00",
+      "date": "2026-11-24",
+      "translated": true
+    },
+    {
+      "id": "a3c9028eefd69cfd",
+      "title": "Clay aiuta i team di vendita a vincere con Codex e ChatGPT",
+      "title_en": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "Le integrazioni ChatGPT e Codex aiutano gli utenti di Clay a ricercare accordi e a trasformare i dati in giochi go-to-market, con i modelli GPT-6 che gestiscono il ragionamento.",
+      "summary_en": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "image": "",
       "source": "OpenAI News",
       "category": "Laboratori",
