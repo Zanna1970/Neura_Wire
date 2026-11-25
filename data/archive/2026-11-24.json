@@ -1,7 +1,7 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-25T03:35:16.235751+01:00",
-  "count": 68,
+  "updated_at": "2026-11-25T18:24:43.861233+01:00",
+  "count": 69,
   "articles": [
     {
       "id": "3f66369c8927dc1a",
@@ -600,6 +600,21 @@
       "category": "Media & Tech",
       "lang": "en",
       "published_at": "2026-11-24T14:10:00+01:00",
+      "date": "2026-11-24",
+      "translated": true
+    },
+    {
+      "id": "10ef75306f1db512",
+      "title": "Dallo spettro alla struttura: identificazione di molecole con competenze di spettrometria di massa per Google Antigravity",
+      "title_en": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "summary": "Mass Spec Skills consente agli scienziati che utilizzano Google Antigravity di interpretare gli spettri di massa tandem.",
+      "summary_en": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.",
+      "image": "https://lh3.googleusercontent.com/CtAfS_JWygw2R9cuDNty3xd0S4WFRzVew1vtNDiPaN1ZOGa88hCwTiCLxtgCtpSFER2t3jFO-moRkPnQYPjXziNgMvKHVc0wkOkzBTdGRoOYL3Ld=w528-h297-n-nu-rw-lo",
+      "source": "Google DeepMind",
+      "category": "Laboratori",
+      "lang": "en",
+      "published_at": "2026-11-24T14:07:53+01:00",
       "date": "2026-11-24",
       "translated": true
     },
