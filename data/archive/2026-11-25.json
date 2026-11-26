@@ -1,8 +1,23 @@
 {
   "date": "2026-11-25",
-  "updated_at": "2026-11-25T22:56:06.451418+01:00",
-  "count": 52,
+  "updated_at": "2026-11-26T02:50:22.263484+01:00",
+  "count": 53,
   "articles": [
+    {
+      "id": "d7b28b808e94d828",
+      "title": "S&P considera il downgrade del credito di Nvidia piuttosto che la governance e i rischi da “uomo chiave”.",
+      "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "L'agenzia di rating del credito potrebbe abbassare il rating di Nvidia ad AA-, il quarto rating più alto.",
+      "summary_en": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "image": "",
+      "source": "TechCrunch AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-25T23:44:32+01:00",
+      "date": "2026-11-25",
+      "translated": true
+    },
     {
       "id": "c91a30b4e6522b01",
       "title": "Il brevetto di Google per i feed video AI personalizzati dipinge un quadro desolante del futuro dell’intrattenimento",

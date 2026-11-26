@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-25T22:56:06.451418+01:00",
+  "updated_at": "2026-11-26T02:50:22.263484+01:00",
   "count": 90,
   "articles": [
+    {
+      "id": "d7b28b808e94d828",
+      "title": "S&P considera il downgrade del credito di Nvidia piuttosto che la governance e i rischi da “uomo chiave”.",
+      "title_en": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "L'agenzia di rating del credito potrebbe abbassare il rating di Nvidia ad AA-, il quarto rating più alto.",
+      "summary_en": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "image": "",
+      "source": "TechCrunch AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-25T23:44:32+01:00",
+      "date": "2026-11-25",
+      "translated": true
+    },
     {
       "id": "c91a30b4e6522b01",
       "title": "Il brevetto di Google per i feed video AI personalizzati dipinge un quadro desolante del futuro dell’intrattenimento",
@@ -1334,21 +1349,6 @@
       "category": "Italia",
       "lang": "it",
       "published_at": "2026-11-24T15:51:46+01:00",
-      "date": "2026-11-24",
-      "translated": true
-    },
-    {
-      "id": "9a35ab1257bf7165",
-      "title": "LibreOffice, regole più severe per i contributi AI sul codice: serve il via libera per usare gli LLM",
-      "title_en": "LibreOffice, regole più severe per i contributi AI sul codice: serve il via libera per usare gli LLM",
-      "url": "https://www.hdblog.it/applicazioni/articoli/n678100/libreoffice-regole-severe-contributi-ai-codice/",
-      "summary": "The Document Foundation non vieta del tutto i contributi AI per il codice di LibreOffice, ma impone nuove regole e limita l'uso degli LLM.",
-      "summary_en": "The Document Foundation non vieta del tutto i contributi AI per il codice di LibreOffice, ma impone nuove regole e limita l'uso degli LLM.",
-      "image": "https://hd2.tudocdn.net/1387793?w=660",
-      "source": "HDblog",
-      "category": "Italia",
-      "lang": "it",
-      "published_at": "2026-11-24T15:50:00+01:00",
       "date": "2026-11-24",
       "translated": true
     }
