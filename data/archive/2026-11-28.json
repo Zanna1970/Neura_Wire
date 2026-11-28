@@ -1,0 +1,67 @@
+{
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T16:40:44.406856+01:00",
+  "count": 4,
+  "articles": [
+    {
+      "id": "86dc88a31c8f86ee",
+      "title": "Il CEO di Sakana AI afferma che i suoi modelli interni vanno ben oltre la semplice sicurezza nazionale del Giappone",
+      "title_en": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+      "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+      "summary": "Sakana AI mira a rafforzare la competitività industriale del Giappone con modelli di intelligenza artificiale nostrani.",
+      "summary_en": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models.",
+      "image": "",
+      "source": "TechCrunch AI",
+      "category": "Media & Tech",
+      "lang": "en",
+      "published_at": "2026-11-28T15:00:00+01:00",
+      "date": "2026-11-28",
+      "translated": true
+    },
+    {
+      "id": "0c3bd33803f6a415",
+      "title": "Galaxy A38, batteria più duratura grazie al moderno chip MediaTek",
+      "title_en": "Galaxy A38, batteria più duratura grazie al moderno chip MediaTek",
+      "url": "https://www.hdblog.it/smartphone/articoli/n678573/galaxy-a38-batteria-piu-duratura-grazie-al-moderno-chip-mediatek/",
+      "summary": "e ai 6.000 mAh",
+      "summary_en": "e ai 6.000 mAh",
+      "image": "https://hd2.tudocdn.net/1387475?w=660",
+      "source": "HDblog",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-28T10:35:00+01:00",
+      "date": "2026-11-28",
+      "translated": true
+    },
+    {
+      "id": "4c85a0fbd2aa413c",
+      "title": "F1 2030, la rivoluzione dei V8 2.1 Turbo: analisi tecnica, possibile addio all’aerodinamica attiva e retroscena politici",
+      "title_en": "F1 2030, la rivoluzione dei V8 2.1 Turbo: analisi tecnica, possibile addio all’aerodinamica attiva e retroscena politici",
+      "url": "https://www.hdmotori.it/f1-2030-la-rivoluzione-dei-v8-2-1-turbo-analisi-tecnica-possibile-addio-allaerodinamica-attiva/",
+      "summary": "La Formula 1 prepara il ritorno ai V8 turbo nel 2030: meno potenza elettrica, monoposto più leggere e nuovi equilibri industriali tra i motoristi",
+      "summary_en": "La Formula 1 prepara il ritorno ai V8 turbo nel 2030: meno potenza elettrica, monoposto più leggere e nuovi equilibri industriali tra i motoristi",
+      "image": "https://hd2.tudocdn.net/1388871?w=660",
+      "source": "HDblog",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-28T10:00:38+01:00",
+      "date": "2026-11-28",
+      "translated": true
+    },
+    {
+      "id": "662da1ac60295327",
+      "title": "A 94 anni si è regalato una Porsche 911 Turbo S, ma senza poterla guidare",
+      "title_en": "A 94 anni si è regalato una Porsche 911 Turbo S, ma senza poterla guidare",
+      "url": "https://www.hdmotori.it/porsche-911-turbo-s-regalo-94-anni/",
+      "summary": "Per il suo compleanno, Jean-Claude Miloé, si è omaggiato con una Porsche, pur non avendo la possibilità di mettersi subito alla guida",
+      "summary_en": "Per il suo compleanno, Jean-Claude Miloé, si è omaggiato con una Porsche, pur non avendo la possibilità di mettersi subito alla guida",
+      "image": "https://hd2.tudocdn.net/1388865?w=660",
+      "source": "HDblog",
+      "category": "Italia",
+      "lang": "it",
+      "published_at": "2026-11-28T08:00:51+01:00",
+      "date": "2026-11-28",
+      "translated": true
+    }
+  ]
+}
